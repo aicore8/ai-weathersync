@@ -1,46 +1,46 @@
 # Changelog
 
-## [0.1.5](https://github.com/aifivem/ai-weathersync/compare/v0.1.4...v0.1.5) (2026-11-02)
+## [0.1.5](https://github.com/aicore8/ai-weathersync/compare/v0.1.4...v0.1.5) (2026-11-02)
 
 
 ### Documentation
 
-* install from the release zip ([095ab0e](https://github.com/aifivem/ai-weathersync/commit/095ab0ecf2d52a62599af94f2879a00141345096))
+* install from the release zip ([095ab0e](https://github.com/aicore8/ai-weathersync/commit/095ab0ecf2d52a62599af94f2879a00141345096))
 
 
 ### Miscellaneous Chores
 
-* build files are no longer in git, the release zip carries them ([a44a73d](https://github.com/aifivem/ai-weathersync/commit/a44a73d579b3acd6237b209ff2ec41b5082549a3))
+* build files are no longer in git, the release zip carries them ([a44a73d](https://github.com/aicore8/ai-weathersync/commit/a44a73d579b3acd6237b209ff2ec41b5082549a3))
 
-## [0.1.4](https://github.com/aifivem/ai-weathersync/compare/v0.1.3...v0.1.4) (2026-11-02)
+## [0.1.4](https://github.com/aicore8/ai-weathersync/compare/v0.1.3...v0.1.4) (2026-11-02)
 
 
 ### Code Refactoring
 
-* import the shared packages from [@aifivem](https://github.com/aifivem) ([580632f](https://github.com/aifivem/ai-weathersync/commit/580632f1e090ea13d4e21dc5a87d6396882ec5d8))
+* import the shared packages from [@aicore8](https://github.com/aicore8) ([580632f](https://github.com/aicore8/ai-weathersync/commit/580632f1e090ea13d4e21dc5a87d6396882ec5d8))
 
-## [0.1.3](https://github.com/aifivem/ai-weathersync/compare/v0.1.2...v0.1.3) (2026-11-01)
+## [0.1.3](https://github.com/aicore8/ai-weathersync/compare/v0.1.2...v0.1.3) (2026-11-01)
 
 
 ### Code Refactoring
 
-* feature folders, side entries that only import, panel schema per tab ([1f95d36](https://github.com/aifivem/ai-weathersync/commit/1f95d36f4b3e7975d654c6d7c92f038df142c2b8))
+* feature folders, side entries that only import, panel schema per tab ([1f95d36](https://github.com/aicore8/ai-weathersync/commit/1f95d36f4b3e7975d654c6d7c92f038df142c2b8))
 
-## [0.1.2](https://github.com/aifivem/ai-weathersync/compare/v0.1.1...v0.1.2) (2026-10-31)
-
-
-### Miscellaneous Chores
-
-* rebuild with the current lib ([33ad4dd](https://github.com/aifivem/ai-weathersync/commit/33ad4ddf50472f3d5230da50f6d327538e9de87c))
-
-## [0.1.1](https://github.com/aifivem/ai-weathersync/compare/v0.1.0...v0.1.1) (2026-10-31)
+## [0.1.2](https://github.com/aicore8/ai-weathersync/compare/v0.1.1...v0.1.2) (2026-10-31)
 
 
 ### Miscellaneous Chores
 
-* rebuild with the current lib ([5a059af](https://github.com/aifivem/ai-weathersync/commit/5a059af0cbf696b7616220c929eb9bba283a5bc0))
-* rebuild with the current lib ([3375fd1](https://github.com/aifivem/ai-weathersync/commit/3375fd1f90569d3c2603a914e5c612ceeec40a2e))
-* rebuild with the current lib ([ebc1849](https://github.com/aifivem/ai-weathersync/commit/ebc18497df7664a93711f7d3711d53bbc6328173))
-* rebuild with the current lib ([1402c01](https://github.com/aifivem/ai-weathersync/commit/1402c013be9498ad88a14921f22ba8ba2acec827))
-* rebuild with the current lib ([2d3cf27](https://github.com/aifivem/ai-weathersync/commit/2d3cf2725e220ccbcc1b4f4dce3e39a77ba326df))
-* rebuild with the current lib ([1ddfff1](https://github.com/aifivem/ai-weathersync/commit/1ddfff16286394105657b59dab50fa903b6256f8))
+* rebuild with the current lib ([33ad4dd](https://github.com/aicore8/ai-weathersync/commit/33ad4ddf50472f3d5230da50f6d327538e9de87c))
+
+## [0.1.1](https://github.com/aicore8/ai-weathersync/compare/v0.1.0...v0.1.1) (2026-10-31)
+
+
+### Miscellaneous Chores
+
+* rebuild with the current lib ([5a059af](https://github.com/aicore8/ai-weathersync/commit/5a059af0cbf696b7616220c929eb9bba283a5bc0))
+* rebuild with the current lib ([3375fd1](https://github.com/aicore8/ai-weathersync/commit/3375fd1f90569d3c2603a914e5c612ceeec40a2e))
+* rebuild with the current lib ([ebc1849](https://github.com/aicore8/ai-weathersync/commit/ebc18497df7664a93711f7d3711d53bbc6328173))
+* rebuild with the current lib ([1402c01](https://github.com/aicore8/ai-weathersync/commit/1402c013be9498ad88a14921f22ba8ba2acec827))
+* rebuild with the current lib ([2d3cf27](https://github.com/aicore8/ai-weathersync/commit/2d3cf2725e220ccbcc1b4f4dce3e39a77ba326df))
+* rebuild with the current lib ([1ddfff1](https://github.com/aicore8/ai-weathersync/commit/1ddfff16286394105657b59dab50fa903b6256f8))

@@ -3,9 +3,9 @@ import {
   GlobalKey,
   optionalExport,
   triggerServerCallback,
-} from "@aifivem/lib/client";
-import { isRecord, record, ServerClock } from "@aifivem/lib/shared";
-import { CORE, isWeather } from "@aifivem/shared";
+} from "@aicore8/lib/client";
+import { isRecord, record, ServerClock } from "@aicore8/lib/shared";
+import { CORE, isWeather } from "@aicore8/shared";
 import {
   EVENTS,
   KEYS,
