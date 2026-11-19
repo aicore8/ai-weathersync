@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/aicore8/ai-weathersync/compare/v0.1.5...v0.1.6) (2026-11-18)
+
+
+### Miscellaneous Chores
+
+* rename aifivem to aicore8 (aicore8.com, github.com/aicore8, [@aicore8](https://github.com/aicore8) npm scope) ([a03b0fa](https://github.com/aicore8/ai-weathersync/commit/a03b0faac73693d6f73f8f73b91150ce0a534793))
+
 ## [0.1.5](https://github.com/aicore8/ai-weathersync/compare/v0.1.4...v0.1.5) (2026-11-02)
 
 
